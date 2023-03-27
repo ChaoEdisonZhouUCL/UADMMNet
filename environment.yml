@@ -1,0 +1,3 @@
+dependencies:
+  - tensorflow-gpu==2.5.0
+  - scipy=1.5.3=py36h81d768a_1
